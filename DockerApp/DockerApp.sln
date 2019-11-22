@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DockerApp", "DockerApp.csproj", "{8484FBF2-4C44-4791-B835-9B5135F8EDF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcWebApp", "..\MvcWebApp\MvcWebApp.csproj", "{80FB727C-F860-4D44-AEC7-C05CA6CC8615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8484FBF2-4C44-4791-B835-9B5135F8EDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8484FBF2-4C44-4791-B835-9B5135F8EDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8484FBF2-4C44-4791-B835-9B5135F8EDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8484FBF2-4C44-4791-B835-9B5135F8EDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FB727C-F860-4D44-AEC7-C05CA6CC8615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FB727C-F860-4D44-AEC7-C05CA6CC8615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FB727C-F860-4D44-AEC7-C05CA6CC8615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FB727C-F860-4D44-AEC7-C05CA6CC8615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4BA959B-F628-459A-A27C-7E5B6F8E587E}
+	EndGlobalSection
+EndGlobal
